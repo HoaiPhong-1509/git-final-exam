@@ -1,0 +1,3 @@
+ - Tên đề thi: Git Final Exam. 
+ - Nguyễn Hoài Phong, 224397, ngày làm bài: 15/10.
+ - Mục tiêu: hoàn thiện các kỹ năng cơ bản khi dùng git để có thể, hỗ trợ trong công việc trong tương lai.
