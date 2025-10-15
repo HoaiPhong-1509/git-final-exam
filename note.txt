@@ -1,3 +1,5 @@
 - Git giúp theo dõi lịch sử thay đổi rất chi tiết.
 - Làm việc nhóm an toàn hơn nhờ branch và pull request.
 - Review và CI giúp cải thiện chất lượng mã nguồn.
+- Git hỗ trợ hoàn nguyên (revert/restore) khi gặp sự cố.
+- Lịch sử minh bạch, dễ truy vết khi có lỗi phát sinh.
