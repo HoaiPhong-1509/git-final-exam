@@ -9,3 +9,9 @@
  - Kỹ năng:	biết lắng nghe
 		học hỏi
 		tự giác.
+ - Kế hoạch học tập:	hoàn thành khóa khọc js cơ bản
+			làm chủ được html và css
+			học thêm về csdl
+			học về các framework như reactJs
+			tự làm các project
+			build cv
