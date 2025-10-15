@@ -9,3 +9,7 @@
 - Ngày 7: Viết tổng kết, retrospective: điều học được, khó khăn, kế hoạch tuần sau.
 - Mục tiêu: Nắm vững quy trình Git cơ bản và biết áp dụng vào dự án nhóm.
 - Tiêu chí hoàn thành: Có ít nhất 1 repo demo, CI chạy xanh, tài liệu cập nhật.
+
+- Git giúp theo dõi lịch sử thay đổi rất chi tiết.
+- Làm việc nhóm an toàn hơn nhờ branch và pull request.
+- Review và CI giúp cải thiện chất lượng mã nguồn.
