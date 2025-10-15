@@ -1,0 +1,5 @@
+Tính năng: Gợi ý học tập thông minh.
+- Hệ thống phân tích lịch học và đề xuất khung giờ tối ưu.
+- Tự động nhắc nhở qua email/notification trước 15 phút.
+- Tính điểm hoàn thành theo ngày và hiển thị biểu đồ tiến độ.
+- Cho phép tùy chỉnh cường độ học (nhẹ, vừa, nặng) theo tuần.
